@@ -16,7 +16,7 @@
         android:layout_height="53dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="32dp"
-        android:nextFocusLeft="@id/button8"
+        android:nextFocusLeft="@id/button3"
         android:nextFocusRight="@id/button2"
         android:nextFocusDown="@id/switch1"
         android:text="Button"
@@ -30,7 +30,7 @@
         android:layout_marginStart="32dp"
         android:text="Button"
         android:nextFocusDown="@id/switch1"
-        android:nextFocusRight="@id/button8"
+        android:nextFocusRight="@id/button3"
         android:nextFocusLeft="@id/button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.509"
@@ -38,7 +38,7 @@
         app:layout_constraintTop_toTopOf="@+id/button" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/button3"
         android:layout_width="96dp"
         android:layout_height="53dp"
         android:layout_marginStart="32dp"
